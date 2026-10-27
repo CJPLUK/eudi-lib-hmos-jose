@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "eudi_cjjose",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}
